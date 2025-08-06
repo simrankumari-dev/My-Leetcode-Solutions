@@ -28,6 +28,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -49,6 +50,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -66,6 +68,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
