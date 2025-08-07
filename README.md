@@ -59,6 +59,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -83,5 +84,10 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
