@@ -35,6 +35,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0686-repeated-string-match](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -42,6 +43,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 ## Stack
 |  |
 | ------- |
