@@ -66,6 +66,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Trie
@@ -93,6 +94,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0004-median-of-two-sorted-arrays](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
