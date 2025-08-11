@@ -53,6 +53,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
