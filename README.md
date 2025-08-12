@@ -29,6 +29,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
@@ -80,6 +81,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -116,4 +118,8 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
