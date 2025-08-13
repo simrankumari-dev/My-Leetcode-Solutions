@@ -51,6 +51,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Math
@@ -122,4 +123,12 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
