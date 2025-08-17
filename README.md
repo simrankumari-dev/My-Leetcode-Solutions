@@ -39,6 +39,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -54,6 +55,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Math
@@ -66,6 +68,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
@@ -119,6 +122,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
