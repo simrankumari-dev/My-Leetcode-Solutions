@@ -37,6 +37,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0038-count-and-say](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -74,6 +75,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -88,6 +90,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0057-insert-interval](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -112,6 +115,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Union Find
