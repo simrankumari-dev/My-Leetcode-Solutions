@@ -46,6 +46,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [1078-remove-outermost-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [3223-count-complete-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3223-count-complete-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -112,6 +113,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [3223-count-complete-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3223-count-complete-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3223-count-complete-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3223-count-complete-substrings) |
 ## Design
 |  |
 | ------- |
