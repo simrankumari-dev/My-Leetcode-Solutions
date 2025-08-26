@@ -100,6 +100,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0948-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1646-kth-missing-positive-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Trie
 |  |
@@ -135,6 +136,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1646-kth-missing-positive-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
