@@ -81,6 +81,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0890-lemonade-change](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0948-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Trie
 |  |
 | ------- |
