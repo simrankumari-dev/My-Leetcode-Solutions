@@ -102,6 +102,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Trie
@@ -141,6 +142,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0240-search-a-2d-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,4 +239,5 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
