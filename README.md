@@ -23,6 +23,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -30,6 +31,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
@@ -155,6 +157,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
