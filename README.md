@@ -167,6 +167,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -231,6 +232,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
