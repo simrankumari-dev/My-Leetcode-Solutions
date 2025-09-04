@@ -26,6 +26,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0005-longest-palindromic-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -127,6 +128,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -247,6 +249,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Monotonic Stack
