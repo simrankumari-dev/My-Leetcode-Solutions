@@ -202,6 +202,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0838-design-linked-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -253,6 +254,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0142-linked-list-cycle-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0838-design-linked-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0838-design-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
