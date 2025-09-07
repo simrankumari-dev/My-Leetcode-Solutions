@@ -185,6 +185,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
@@ -254,6 +255,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
