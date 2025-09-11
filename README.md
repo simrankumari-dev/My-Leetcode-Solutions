@@ -62,6 +62,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -288,13 +289,19 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0046-permutations) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
