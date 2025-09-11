@@ -290,11 +290,13 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Backtracking
 |  |
@@ -304,4 +306,9 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
