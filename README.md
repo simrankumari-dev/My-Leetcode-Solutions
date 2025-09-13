@@ -38,6 +38,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0091-decode-ways](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -75,6 +76,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0007-reverse-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
@@ -317,5 +319,6 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
