@@ -133,6 +133,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
