@@ -90,6 +90,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [2032-largest-odd-number-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2752-sum-multiples) |
 ## Greedy
 |  |
 | ------- |
