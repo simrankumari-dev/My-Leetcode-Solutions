@@ -61,6 +61,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3223-count-complete-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3223-count-complete-substrings) |
+| [3312-number-of-changing-keys](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3312-number-of-changing-keys) |
 ## String Matching
 |  |
 | ------- |
