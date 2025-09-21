@@ -95,6 +95,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [3226-minimum-number-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -180,6 +182,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [3226-minimum-number-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 ## Union Find
 |  |
 | ------- |
