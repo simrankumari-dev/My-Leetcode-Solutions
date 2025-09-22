@@ -29,6 +29,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -134,6 +135,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0890-lemonade-change](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -181,6 +183,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
