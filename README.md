@@ -60,6 +60,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [2032-largest-odd-number-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3194-find-words-containing-character](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3223-count-complete-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3223-count-complete-substrings) |
 | [3312-number-of-changing-keys](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3312-number-of-changing-keys) |
 ## String Matching
@@ -142,6 +143,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
