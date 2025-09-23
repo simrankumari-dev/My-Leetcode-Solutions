@@ -96,6 +96,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2752-sum-multiples) |
+| [2812-find-the-maximum-achievable-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 ## Greedy
