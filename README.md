@@ -140,6 +140,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [1019-squares-of-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1791-richest-customer-wealth](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -324,6 +325,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0036-valid-sudoku](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1791-richest-customer-wealth](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Tree
 |  |
