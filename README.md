@@ -78,6 +78,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0232-implement-queue-using-stacks](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -134,6 +135,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0876-hand-of-straights](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -361,5 +363,6 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [3226-minimum-number-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
