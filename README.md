@@ -103,6 +103,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [2812-find-the-maximum-achievable-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +160,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Trie
 |  |
 | ------- |
