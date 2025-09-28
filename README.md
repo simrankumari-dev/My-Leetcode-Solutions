@@ -339,12 +339,14 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Backtracking
@@ -356,6 +358,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -369,4 +372,8 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0657-robot-return-to-origin](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [3226-minimum-number-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3226-minimum-number-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
