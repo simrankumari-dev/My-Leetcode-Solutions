@@ -25,6 +25,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -127,6 +128,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0046-permutations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
