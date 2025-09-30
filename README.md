@@ -108,6 +108,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -125,6 +126,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0033-search-in-rotated-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0057-insert-interval) |
@@ -229,6 +231,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
