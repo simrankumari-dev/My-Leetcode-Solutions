@@ -128,6 +128,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0036-valid-sudoku](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -358,6 +359,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0046-permutations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0077-combinations) |
 ## Depth-First Search
 |  |
