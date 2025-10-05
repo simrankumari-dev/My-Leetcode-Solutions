@@ -25,6 +25,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0086-partition-list) |
@@ -129,6 +130,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0004-median-of-two-sorted-arrays](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0036-valid-sudoku) |
@@ -200,6 +202,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
