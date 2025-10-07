@@ -41,6 +41,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
@@ -93,6 +94,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0050-powx-n) |
@@ -186,6 +188,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0001-two-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
