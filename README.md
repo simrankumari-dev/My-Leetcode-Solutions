@@ -95,6 +95,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
@@ -259,6 +260,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -331,6 +333,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
