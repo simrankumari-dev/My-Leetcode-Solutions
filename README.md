@@ -46,6 +46,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
@@ -193,6 +194,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -274,6 +276,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3223-count-complete-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3223-count-complete-substrings) |
