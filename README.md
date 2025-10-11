@@ -102,6 +102,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0013-roman-to-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -149,6 +150,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
