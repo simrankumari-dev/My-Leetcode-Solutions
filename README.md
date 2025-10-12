@@ -52,6 +52,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -103,6 +104,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -360,6 +362,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [1610-xor-operation-in-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Matrix
@@ -407,6 +410,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [3226-minimum-number-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3226-minimum-number-game) |
