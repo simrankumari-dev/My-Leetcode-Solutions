@@ -149,6 +149,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0041-first-missing-positive](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0057-insert-interval) |
@@ -221,6 +222,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -397,6 +399,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0046-permutations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0077-combinations) |
 ## Depth-First Search
