@@ -53,6 +53,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0058-length-of-last-word](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -85,6 +86,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0020-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
