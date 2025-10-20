@@ -50,6 +50,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0032-longest-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
@@ -126,6 +127,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -269,6 +271,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -282,6 +285,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0002-add-two-numbers](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
