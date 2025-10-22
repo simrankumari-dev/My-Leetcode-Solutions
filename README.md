@@ -55,6 +55,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0065-valid-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -162,6 +163,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0063-unique-paths-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -391,6 +393,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0059-spiral-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -420,9 +423,11 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0047-permutations-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0100-same-tree) |
