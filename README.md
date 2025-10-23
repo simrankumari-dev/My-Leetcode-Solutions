@@ -366,6 +366,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0024-swap-nodes-in-pairs](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
