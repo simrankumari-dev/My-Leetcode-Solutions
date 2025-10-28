@@ -57,6 +57,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0071-simplify-path](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -435,6 +436,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0051-n-queens](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Depth-First Search
 |  |
 | ------- |
