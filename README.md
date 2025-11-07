@@ -69,6 +69,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -122,6 +123,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0171-excel-sheet-column-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -402,6 +404,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Matrix
