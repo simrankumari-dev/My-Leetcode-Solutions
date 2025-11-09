@@ -69,6 +69,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0415-add-strings) |
@@ -239,6 +240,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -256,6 +258,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0147-insertion-sort-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -406,6 +409,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
