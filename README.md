@@ -74,6 +74,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0392-is-subsequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -128,6 +129,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0204-count-primes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -479,6 +481,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0054-spiral-matrix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0682-baseball-game) |
