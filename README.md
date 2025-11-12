@@ -77,6 +77,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0412-fizz-buzz](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0686-repeated-string-match) |
@@ -196,6 +197,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0240-search-a-2d-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0876-hand-of-straights](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
@@ -248,6 +250,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
