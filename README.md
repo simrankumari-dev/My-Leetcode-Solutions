@@ -68,6 +68,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0171-excel-sheet-column-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -229,6 +230,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Hash Table
 |  |
 | ------- |
@@ -345,6 +347,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0838-design-linked-list) |
@@ -474,6 +477,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0100-same-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
