@@ -10,7 +10,7 @@ class Solution {
                 if (i >= strs[j].length() || strs[j].charAt(i) != ch) {
                     return strs[0].substring(0, i);
                 }
-            }
+            
         }
 
         return strs[0]; // all characters matched
