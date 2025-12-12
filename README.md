@@ -80,6 +80,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0412-fizz-buzz](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -201,6 +202,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0474-ones-and-zeroes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -329,6 +331,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0139-word-break](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
