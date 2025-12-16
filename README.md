@@ -79,6 +79,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0409-longest-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -266,6 +267,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0387-first-unique-character-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -510,6 +512,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0100-same-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0433-minimum-genetic-mutation](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 ## Simulation
 |  |
 | ------- |
