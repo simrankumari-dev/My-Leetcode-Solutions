@@ -93,6 +93,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0819-most-common-word](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1078-occurrences-after-bigram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-occurrences-after-bigram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
