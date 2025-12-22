@@ -91,6 +91,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0686-repeated-string-match](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -215,6 +216,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0599-minimum-index-sum-of-two-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0804-unique-morse-code-words](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0876-hand-of-straights](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -275,6 +277,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0599-minimum-index-sum-of-two-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0876-hand-of-straights](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
