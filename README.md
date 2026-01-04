@@ -77,6 +77,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0387-first-unique-character-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0409-longest-palindrome) |
@@ -279,6 +280,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0383-ransom-note](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -335,6 +337,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0023-merge-k-sorted-lists](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
@@ -376,6 +379,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3223-count-complete-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3223-count-complete-substrings) |
