@@ -75,6 +75,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -224,6 +225,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0474-ones-and-zeroes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -476,6 +478,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0318-maximum-product-of-word-lengths](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
