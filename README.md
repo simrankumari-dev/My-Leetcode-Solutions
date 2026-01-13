@@ -71,6 +71,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0171-excel-sheet-column-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0290-word-pattern) |
@@ -264,6 +265,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | ------- |
 | [0014-longest-common-prefix](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Hash Table
 |  |
@@ -282,6 +284,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0142-linked-list-cycle-ii](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -393,6 +396,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
