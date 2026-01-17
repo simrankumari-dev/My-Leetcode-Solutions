@@ -242,6 +242,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0948-sort-an-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1293-three-consecutive-odds](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -302,6 +303,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0819-most-common-word](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0876-hand-of-straights](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
