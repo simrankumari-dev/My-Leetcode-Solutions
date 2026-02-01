@@ -73,6 +73,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0205-isomorphic-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -130,6 +131,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0032-longest-valid-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0224-basic-calculator](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -157,6 +159,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0168-excel-sheet-column-title](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -378,6 +381,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0044-wildcard-matching](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
