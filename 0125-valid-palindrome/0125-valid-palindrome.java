@@ -1,21 +1,43 @@
 class Solution {
+
+
+    public boolean isAlphaNum(char ch){
+            
+            if(ch>='0'&& ch<='9'){
+                return true;
+            }
+            //Convert to lowercase and check letter(a-z)
+            ch=Character.toLowerCase(ch);
+            if(ch>='a'&& ch<='z'){
+                return true;
+            }
+            return false;
+
+        }
+
     public boolean isPalindrome(String s) {
-        int left = 0, right = s.length() - 1;
-        while (left < right) {
-            // Move left pointer to next alphanumeric char
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
-                left++;
+
+
+        int start=0;
+        int end=s.length()-1;
+
+        while(start<end){
+            if(!isAlphaNum(s.charAt(start))){
+                start++;
+                continue;
             }
-            // Move right pointer to previous alphanumeric char
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
-                right--;
+            if(!isAlphaNum(s.charAt(end))){
+                end--;
+                continue;
             }
-            // Compare characters (case-insensitive)
-            if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
+
+            if(Character.toLowerCase(s.charAt(start))!=Character.toLowerCase(s.charAt(end))){
                 return false;
             }
-            left++;
-            right--;
+
+            start++;
+            end--;
+
         }
         return true;
     }
