@@ -111,6 +111,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [1078-occurrences-after-bigram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-occurrences-after-bigram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -142,6 +143,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -562,6 +564,7 @@ I’m solving problems to strengthen my coding, data structures, and algorithm s
 | [0415-add-strings](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3226-minimum-number-game](https://github.com/simrankumari-dev/My-Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 ## Binary Search Tree
 |  |
